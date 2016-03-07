@@ -1,5 +1,4 @@
-##TODO: Add your presentations title
-<p><br/><br/><small>TODO: Add your name</a></small></p>
+##Alex's Example Presentation
 
 
 ###Vertical Slide 1
